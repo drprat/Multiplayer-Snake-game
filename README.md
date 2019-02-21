@@ -1,4 +1,4 @@
-# multiplayer-snake test (max 2player)
+# multiplayer-snake test (default 2player)
 
 npm install
 node app.js
