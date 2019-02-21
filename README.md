@@ -1,2 +1,7 @@
-# Multiplayer-Snake-game
-A client-server Multiplayer snake game (Browser based)
+# multiplayer-snake test (max 2player)
+
+npm install
+node app.js
+
+Then:
+Goto `localhost:3000` in your web browser.
